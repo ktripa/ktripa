@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://ktripa.github.io"><b>Website</b></a> &nbsp;·&nbsp;
+  <a href="https://ktripa.github.io/writing/"><b>Writing</b></a> &nbsp;·&nbsp;
   <a href="https://scholar.google.com/citations?user=wMA_dkQAAAAJ&hl=en">Google Scholar</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/kumar-p-tripathy-ph-d-91447517a/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://orcid.org/0000-0002-2451-0166">ORCID</a> &nbsp;·&nbsp;
@@ -53,6 +54,15 @@ returns the same type. Run globally at 0.25° for 1980 to 2022.
 | [**wf_lstm_attn**](https://github.com/ktripa/wf_lstm_attn) | Fire Weather Index attribution for TX, OK, NM and AZ. Three-branch PyTorch model: concurrent weather, a 12-week antecedent fuel memory pooled by additive attention, and static landscape. Branch ablations built in. |
 | [**drought_indices_python**](https://github.com/ktripa/drought_indices_python) | SPI, SPEI and PET on [PyPI](https://pypi.org/project/drought-indices-python/). Drought indices that usually live in C++ or R, in Python. |
 | [**deep-learning-python-kumar**](https://github.com/ktripa/deep-learning-python-kumar) | Companion notebooks for *Deep Learning with Python*. |
+
+### Writing
+
+Long-form explainers with figures you can play with.
+
+- [**What an LSTM remembers about rain**](https://ktripa.github.io/writing/lstm-reservoir.html): an LSTM cell with frozen gates is a linear reservoir; give the gates a thermometer and it learns a snowpack.
+- [**Where the compute should go**](https://ktripa.github.io/writing/scaling-laws.html): compute-optimal scaling laws, and why scientific foundation models hit a data wall first.
+- [**Why your GPU is mostly waiting**](https://ktripa.github.io/writing/roofline.html): the roofline model, arithmetic intensity, and what to change before asking for more nodes.
+- [**A qubit you can turn by hand**](https://ktripa.github.io/writing/bloch-sphere.html): every single-qubit gate is a rotation; interference on a draggable Bloch sphere.
 
 ### Selected papers
 

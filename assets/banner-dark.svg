@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+<rect width="1200" height="300" rx="18" fill="#14161b"/>
+<rect x=".5" y=".5" width="1199" height="299" rx="18" fill="none" stroke="#2b3038"/>
+<rect x="775.6" y="26" width="3.5" height="36.2" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="781.2" y="26" width="3.5" height="28.1" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="792.4" y="26" width="3.5" height="26.3" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="798.0" y="26" width="3.5" height="21.8" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="803.7" y="26" width="3.5" height="7.3" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="820.5" y="26" width="3.5" height="11.4" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="854.1" y="26" width="3.5" height="53.0" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="865.4" y="26" width="3.5" height="8.0" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="882.2" y="26" width="3.5" height="31.2" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="904.6" y="26" width="3.5" height="6.7" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="910.2" y="26" width="3.5" height="38.4" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="955.1" y="26" width="3.5" height="30.7" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="988.8" y="26" width="3.5" height="20.9" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="1000.0" y="26" width="3.5" height="25.1" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="1005.6" y="26" width="3.5" height="37.5" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="1078.5" y="26" width="3.5" height="40.0" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="1117.8" y="26" width="3.5" height="23.4" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="1123.4" y="26" width="3.5" height="7.9" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="1129.0" y="26" width="3.5" height="45.3" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="1134.7" y="26" width="3.5" height="12.4" rx="1" fill="#7f9fcf" opacity=".7"/>
+<rect x="1151.5" y="26" width="3.5" height="22.7" rx="1" fill="#7f9fcf" opacity=".7"/>
+<line x1="764.9" y1="264" x2="1162.7" y2="264" stroke="#2b3038"/>
+<polyline points="771.7,262.0 777.3,246.8 782.9,236.8 788.5,239.8 794.1,231.5 799.8,226.0 805.4,227.3 811.0,231.4 816.6,235.1 822.2,233.5 827.8,236.9 833.4,239.9 839.0,242.6 844.6,244.9 850.2,247.0 855.9,226.5 861.5,230.8 867.1,231.2 872.7,234.9 878.3,238.1 883.9,227.9 889.5,232.0 895.1,235.6 900.7,238.8 906.3,238.7 912.0,225.4 917.6,229.8 923.2,233.7 928.8,237.1 934.4,240.1 940.0,242.7 945.6,245.0 951.2,247.0 956.8,235.9 962.4,239.1 968.0,241.8 973.7,244.2 979.3,246.4 984.9,248.2 990.5,241.1 996.1,243.6 1001.7,235.3 1007.3,222.8 1012.9,227.5 1018.5,231.6 1024.2,235.3 1029.8,238.5 1035.4,241.3 1041.0,243.8 1046.6,246.0 1052.2,247.9 1057.8,249.6 1063.4,251.1 1069.0,252.4 1074.6,253.5 1080.2,237.7 1085.9,240.7 1091.5,243.2 1097.1,245.5 1102.7,247.5 1108.3,249.2 1113.9,250.7 1119.5,242.2 1125.1,241.3 1130.7,224.7 1136.3,224.0 1142.0,228.5 1147.6,232.6 1153.2,226.6 1158.8,230.8" fill="none" stroke="#e0703d" stroke-width="2.6" stroke-linejoin="round" />
+<rect x="1040" y="144.8" width="7" height="5.2" rx="1.5" fill="#3fb3a8" opacity=".75"/>
+<rect x="1050" y="142.2" width="7" height="7.8" rx="1.5" fill="#3fb3a8" opacity=".75"/>
+<rect x="1060" y="142.2" width="7" height="7.8" rx="1.5" fill="#3fb3a8" opacity=".75"/>
+<rect x="1070" y="137.0" width="7" height="13.0" rx="1.5" fill="#3fb3a8" opacity=".75"/>
+<rect x="1080" y="139.6" width="7" height="10.4" rx="1.5" fill="#3fb3a8" opacity=".75"/>
+<rect x="1090" y="134.4" width="7" height="15.6" rx="1.5" fill="#3fb3a8" opacity=".75"/>
+<rect x="1100" y="129.2" width="7" height="20.8" rx="1.5" fill="#3fb3a8" opacity=".75"/>
+<rect x="1110" y="131.8" width="7" height="18.2" rx="1.5" fill="#3fb3a8" opacity=".75"/>
+<rect x="1120" y="124.0" width="7" height="26.0" rx="1.5" fill="#3fb3a8" opacity=".75"/>
+<rect x="1130" y="113.6" width="7" height="36.4" rx="1.5" fill="#3fb3a8" opacity=".75"/>
+<rect x="1140" y="103.2" width="7" height="46.8" rx="1.5" fill="#3fb3a8" opacity=".75"/>
+<rect x="1150" y="98.0" width="7" height="52.0" rx="1.5" fill="#3fb3a8" opacity=".75"/>
+<text x="1040" y="166" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" fill="#8b93a0">attention over 12 weeks</text>
+<text x="56" y="76" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="2.2" fill="#e0703d">POSTDOCTORAL RESEARCH ASSOCIATE · OAK RIDGE NATIONAL LABORATORY</text>
+<text x="54" y="138" font-family="Cambria,'Hoefler Text',Georgia,serif" font-size="54" font-weight="700" fill="#eceef1" letter-spacing="-1">Kumar Puran Tripathy</text>
+<text x="56" y="184" font-family="Cambria,'Hoefler Text',Georgia,serif" font-size="21" fill="#c4c9d1">Deep learning for the land water cycle, models that explain</text>
+<text x="56" y="212" font-family="Cambria,'Hoefler Text',Georgia,serif" font-size="21" fill="#c4c9d1">what they learned, and software that scales from a laptop</text>
+<text x="56" y="240" font-family="Cambria,'Hoefler Text',Georgia,serif" font-size="21" fill="#c4c9d1">to a leadership-class supercomputer.</text>
+</svg>

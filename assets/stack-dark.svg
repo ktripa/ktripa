@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 372" width="1000" height="372">
+<rect width="1000" height="372" rx="14" fill="#14161b"/>
+<defs>
+<marker id="a0" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#7f9fcf"/></marker>
+<marker id="a1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#e0703d"/></marker>
+<marker id="a2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#3fb3a8"/></marker>
+<marker id="a3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#d8a64a"/></marker>
+</defs>
+<path d="M210 72.0 C244 72.0 234 72.0 268 72.0" fill="none" stroke="#e0703d" stroke-width="1.4" opacity=".6" marker-end="url(#a1)"/>
+<path d="M210 72.0 C244 72.0 234 146.0 268 146.0" fill="none" stroke="#e0703d" stroke-width="1.4" opacity=".6" marker-end="url(#a1)"/>
+<path d="M210 72.0 C244 72.0 234 220.0 268 220.0" fill="none" stroke="#e0703d" stroke-width="1.4" opacity=".6" marker-end="url(#a1)"/>
+<path d="M210 146.0 C244 146.0 234 72.0 268 72.0" fill="none" stroke="#e0703d" stroke-width="1.4" opacity=".6" marker-end="url(#a1)"/>
+<path d="M210 146.0 C244 146.0 234 146.0 268 146.0" fill="none" stroke="#e0703d" stroke-width="1.4" opacity=".6" marker-end="url(#a1)"/>
+<path d="M210 220.0 C244 220.0 234 72.0 268 72.0" fill="none" stroke="#e0703d" stroke-width="1.4" opacity=".6" marker-end="url(#a1)"/>
+<path d="M210 220.0 C244 220.0 234 220.0 268 220.0" fill="none" stroke="#e0703d" stroke-width="1.4" opacity=".6" marker-end="url(#a1)"/>
+<path d="M470 72.0 C504 72.0 494 72.0 528 72.0" fill="none" stroke="#3fb3a8" stroke-width="1.4" opacity=".6" marker-end="url(#a2)"/>
+<path d="M470 72.0 C504 72.0 494 146.0 528 146.0" fill="none" stroke="#3fb3a8" stroke-width="1.4" opacity=".6" marker-end="url(#a2)"/>
+<path d="M470 146.0 C504 146.0 494 72.0 528 72.0" fill="none" stroke="#3fb3a8" stroke-width="1.4" opacity=".6" marker-end="url(#a2)"/>
+<path d="M470 146.0 C504 146.0 494 220.0 528 220.0" fill="none" stroke="#3fb3a8" stroke-width="1.4" opacity=".6" marker-end="url(#a2)"/>
+<path d="M470 220.0 C504 220.0 494 220.0 528 220.0" fill="none" stroke="#3fb3a8" stroke-width="1.4" opacity=".6" marker-end="url(#a2)"/>
+<path d="M730 72.0 C764 72.0 754 146.0 788 146.0" fill="none" stroke="#d8a64a" stroke-width="1.4" opacity=".6" marker-end="url(#a3)"/>
+<path d="M730 72.0 C764 72.0 754 220.0 788 220.0" fill="none" stroke="#d8a64a" stroke-width="1.4" opacity=".6" marker-end="url(#a3)"/>
+<path d="M730 146.0 C764 146.0 754 146.0 788 146.0" fill="none" stroke="#d8a64a" stroke-width="1.4" opacity=".6" marker-end="url(#a3)"/>
+<path d="M730 220.0 C764 220.0 754 146.0 788 146.0" fill="none" stroke="#d8a64a" stroke-width="1.4" opacity=".6" marker-end="url(#a3)"/>
+<path d="M730 220.0 C764 220.0 754 72.0 788 72.0" fill="none" stroke="#d8a64a" stroke-width="1.4" opacity=".6" marker-end="url(#a3)"/>
+<text x="110.0" y="26" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.7" fill="#7f9fcf">OBSERVE</text>
+<rect x="10" y="44" width="200" height="56" rx="9" fill="#1a1d23" stroke="#7f9fcf" stroke-width="1.3"/>
+<rect x="10" y="53" width="3.5" height="38" rx="1.5" fill="#7f9fcf"/>
+<text x="26" y="68" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#eceef1">Reanalysis</text>
+<text x="26" y="86" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b93a0">ERA5, GLEAM</text>
+<rect x="10" y="118" width="200" height="56" rx="9" fill="#1a1d23" stroke="#7f9fcf" stroke-width="1.3"/>
+<rect x="10" y="127" width="3.5" height="38" rx="1.5" fill="#7f9fcf"/>
+<text x="26" y="142" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#eceef1">Satellites</text>
+<text x="26" y="160" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b93a0">soil moisture, NDVI, VOD</text>
+<rect x="10" y="192" width="200" height="56" rx="9" fill="#1a1d23" stroke="#7f9fcf" stroke-width="1.3"/>
+<rect x="10" y="201" width="3.5" height="38" rx="1.5" fill="#7f9fcf"/>
+<text x="26" y="216" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#eceef1">Land surface models</text>
+<text x="26" y="234" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b93a0">root zone, fluxes</text>
+<text x="370.0" y="26" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.7" fill="#e0703d">LEARN</text>
+<rect x="270" y="44" width="200" height="56" rx="9" fill="#1a1d23" stroke="#e0703d" stroke-width="1.3"/>
+<rect x="270" y="53" width="3.5" height="38" rx="1.5" fill="#e0703d"/>
+<text x="286" y="68" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#eceef1">LSTM + attention</text>
+<text x="286" y="86" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b93a0">memory of the past</text>
+<rect x="270" y="118" width="200" height="56" rx="9" fill="#1a1d23" stroke="#e0703d" stroke-width="1.3"/>
+<rect x="270" y="127" width="3.5" height="38" rx="1.5" fill="#e0703d"/>
+<text x="286" y="142" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#eceef1">Physics-guided transformer</text>
+<text x="286" y="160" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b93a0">constraints in the loss</text>
+<rect x="270" y="192" width="200" height="56" rx="9" fill="#1a1d23" stroke="#e0703d" stroke-width="1.3"/>
+<rect x="270" y="201" width="3.5" height="38" rx="1.5" fill="#e0703d"/>
+<text x="286" y="216" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#eceef1">Statistics and extremes</text>
+<text x="286" y="234" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b93a0">tails, trends, compounds</text>
+<text x="630.0" y="26" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.7" fill="#3fb3a8">EXPLAIN</text>
+<rect x="530" y="44" width="200" height="56" rx="9" fill="#1a1d23" stroke="#3fb3a8" stroke-width="1.3"/>
+<rect x="530" y="53" width="3.5" height="38" rx="1.5" fill="#3fb3a8"/>
+<text x="546" y="68" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#eceef1">Attribution</text>
+<text x="546" y="86" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b93a0">integrated gradients</text>
+<rect x="530" y="118" width="200" height="56" rx="9" fill="#1a1d23" stroke="#3fb3a8" stroke-width="1.3"/>
+<rect x="530" y="127" width="3.5" height="38" rx="1.5" fill="#3fb3a8"/>
+<text x="546" y="142" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#eceef1">Counterfactuals</text>
+<text x="546" y="160" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b93a0">perturb one driver</text>
+<rect x="530" y="192" width="200" height="56" rx="9" fill="#1a1d23" stroke="#3fb3a8" stroke-width="1.3"/>
+<rect x="530" y="201" width="3.5" height="38" rx="1.5" fill="#3fb3a8"/>
+<text x="546" y="216" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#eceef1">Process checks</text>
+<text x="546" y="234" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b93a0">does it match physics?</text>
+<text x="890.0" y="26" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.7" fill="#d8a64a">DELIVER</text>
+<rect x="790" y="44" width="200" height="56" rx="9" fill="#1a1d23" stroke="#d8a64a" stroke-width="1.3"/>
+<rect x="790" y="53" width="3.5" height="38" rx="1.5" fill="#d8a64a"/>
+<text x="806" y="68" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#eceef1">FlashCAT</text>
+<text x="806" y="86" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b93a0">toolkit + live explorer</text>
+<rect x="790" y="118" width="200" height="56" rx="9" fill="#1a1d23" stroke="#d8a64a" stroke-width="1.3"/>
+<rect x="790" y="127" width="3.5" height="38" rx="1.5" fill="#d8a64a"/>
+<text x="806" y="142" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#eceef1">Papers</text>
+<text x="806" y="160" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b93a0">PNAS, GRL, WRR, J. Hydrol.</text>
+<rect x="790" y="192" width="200" height="56" rx="9" fill="#1a1d23" stroke="#d8a64a" stroke-width="1.3"/>
+<rect x="790" y="201" width="3.5" height="38" rx="1.5" fill="#d8a64a"/>
+<text x="806" y="216" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#eceef1">Data products</text>
+<text x="806" y="234" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b93a0">global, reproducible</text>
+<path d="M370.0 300 L370.0 252" stroke="#8b93a0" stroke-width="1.2" stroke-dasharray="4 4"/>
+<path d="M890.0 300 L890.0 252" stroke="#8b93a0" stroke-width="1.2" stroke-dasharray="4 4"/>
+<rect x="10" y="300" width="980" height="58" rx="9" fill="#20242b" stroke="#eceef1" stroke-width="1.1"/>
+<text x="500" y="325" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#eceef1">High-performance computing at Oak Ridge</text>
+<text x="500" y="344" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8b93a0">GPU training and global production runs</text>
+</svg>
